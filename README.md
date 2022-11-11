@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdulrahman Badr
-- 👀 I’m interested in Software Engineering in general and specially web development , Embedded systems ,Iot and Self driving cars
-- 🌱 I’m currently learning about self driving cars and embedded systems
-- 📫 How to reach me , you can reach me through my [linkedin](https://www.linkedin.com/in/abdulrahman-badr/) or email : aba884682@gmail.com
+- 👋 Hi, I’m abdulrahman Badr .
+- 👀 I’m interested in Software Engineering in general and specially web development , Embedded systems ,Iot and Self driving cars .
+- 🌱 I’m currently learning about self driving cars and embedded systems .
+- 📫 How to reach me , you can reach me through my [linkedin](https://www.linkedin.com/in/abdulrahman-badr/) or email : aba884682@gmail.com .
 
 
 <!---
