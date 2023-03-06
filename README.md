@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-badr/"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-badr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Abdulrahman99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Abdulrahman99" height="30" width="40" /></a>
-
+<a href="https://leetcode.com/aba884682/" target="blank"> <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Abdulrahman99" height="30" width="40" /> </a>
 </p>
 
 
