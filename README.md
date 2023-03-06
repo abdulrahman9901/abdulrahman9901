@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m abdulrahman Badr .</h1>
+<h1 align="center">👋 Hi, I’m Abdulrahman Badr .</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nouranhany&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahman9901" /> </p>
